@@ -1,0 +1,19 @@
+@using System.Globalization
+@using System.IO
+@using System.Text
+@using Serilog
+
+<h3>TestComponent</h3>
+<p>This is the name parsed to the component: @Name</p>
+<br/>
+<button @onclick="() => Method()">Click this to invoke parent component</button>
+
+@code {
+    [Parameter] public string Name { get; set; }
+    [Parameter] public EventCallback<string> OnUpdate { get; set; }
+
+    private async Task Method()
+    {
+        await OnUpdate.InvokeAsync("Whatever");
+    }
+}

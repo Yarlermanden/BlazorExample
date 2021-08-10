@@ -1,0 +1,48 @@
+@page "/test"
+@using RegexGenerator.Services
+@using RegexGeneratorFrontend.Components
+@inject IService Service
+
+<h1>Test</h1>
+
+<p>Hello world!</p>
+
+<button @onclick="() => UseService()">Use my service</button>
+<input @bind="@_text"/>
+<br/>
+<TestComponent
+    @ref="@_testComponent"
+    Name="TestComponent"
+    OnUpdate="@OnUpdate"
+/>
+<p>This is the text from the child component: @_childText</p>
+
+
+@code {
+    private string _text;
+    private string _childText;
+    private TestComponent _testComponent;
+
+    protected override Task OnInitializedAsync()
+    {
+        //Use this to access code before gui loades
+        _text = "";
+        return base.OnInitializedAsync();
+    }
+
+    protected override Task OnAfterRenderAsync(bool firstRender)
+    {
+        //Use this to access code after gui loades
+        return base.OnAfterRenderAsync(firstRender);
+    }
+
+    private void UseService()
+    {
+        Service.ServiceMethod(_text);
+    }
+
+    private async Task OnUpdate(string childText)
+    {
+        _childText = childText;
+    }
+}

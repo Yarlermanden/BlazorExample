@@ -1,0 +1,12 @@
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGenerator/bin/Debug/net5.0/RegexGenerator.deps.json
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGenerator/bin/Debug/net5.0/RegexGenerator.dll
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGenerator/bin/Debug/net5.0/ref/RegexGenerator.dll
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGenerator/bin/Debug/net5.0/RegexGenerator.pdb
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGenerator/obj/Debug/net5.0/RegexGenerator.csproj.AssemblyReference.cache
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGenerator/obj/Debug/net5.0/RegexGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGenerator/obj/Debug/net5.0/RegexGenerator.AssemblyInfoInputs.cache
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGenerator/obj/Debug/net5.0/RegexGenerator.AssemblyInfo.cs
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGenerator/obj/Debug/net5.0/RegexGenerator.csproj.CoreCompileInputs.cache
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGenerator/obj/Debug/net5.0/RegexGenerator.dll
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGenerator/obj/Debug/net5.0/ref/RegexGenerator.dll
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGenerator/obj/Debug/net5.0/RegexGenerator.pdb

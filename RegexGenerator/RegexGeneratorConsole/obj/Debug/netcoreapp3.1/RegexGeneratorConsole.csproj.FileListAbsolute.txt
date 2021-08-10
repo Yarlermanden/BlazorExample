@@ -1,0 +1,12 @@
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGeneratorConsole/bin/Debug/netcoreapp3.1/RegexGeneratorConsole.deps.json
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGeneratorConsole/bin/Debug/netcoreapp3.1/RegexGeneratorConsole.runtimeconfig.json
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGeneratorConsole/bin/Debug/netcoreapp3.1/RegexGeneratorConsole.runtimeconfig.dev.json
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGeneratorConsole/bin/Debug/netcoreapp3.1/RegexGeneratorConsole.dll
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGeneratorConsole/bin/Debug/netcoreapp3.1/RegexGeneratorConsole.pdb
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGeneratorConsole/obj/Debug/netcoreapp3.1/RegexGeneratorConsole.csprojAssemblyReference.cache
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGeneratorConsole/obj/Debug/netcoreapp3.1/RegexGeneratorConsole.AssemblyInfoInputs.cache
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGeneratorConsole/obj/Debug/netcoreapp3.1/RegexGeneratorConsole.AssemblyInfo.cs
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGeneratorConsole/obj/Debug/netcoreapp3.1/RegexGeneratorConsole.csproj.CoreCompileInputs.cache
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGeneratorConsole/obj/Debug/netcoreapp3.1/RegexGeneratorConsole.dll
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGeneratorConsole/obj/Debug/netcoreapp3.1/RegexGeneratorConsole.pdb
+/Users/martinholst/Desktop/RegexGenerator/RegexGenerator/RegexGeneratorConsole/obj/Debug/netcoreapp3.1/RegexGeneratorConsole.genruntimeconfig.cache
